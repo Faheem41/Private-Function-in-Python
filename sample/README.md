@@ -1,6 +1,6 @@
 Sample Code Example:..........
 
-Here a demo code will be shown where we will see the practical implementation of the private.py
+Here a demo code will be shown where we will see the practical implementation of the private.py</br>
 file. We will learn how to create a private function, and implement it. This code piece actually
 is the proof of whether the code works or not.
 ..............................
