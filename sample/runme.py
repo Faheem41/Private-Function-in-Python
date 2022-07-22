@@ -60,4 +60,3 @@ if __name__ == '__main__':
         print("The native function which calls the non-private function from moduleWithPrivateFunc.py is raising error")
 
     print("\nResult: In this simple test, all the functions worked as expected\n\nTHANKS!")
-    x = input()
