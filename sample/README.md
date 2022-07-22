@@ -7,10 +7,10 @@ is the proof of whether the code works or not.
 
 
 Description of the files......
-# private.py              : the module with the class, which is used to make functions private
-# moduleWithPrivateFunc.py: here a private function prvt_func() is created, also another function
+private.py              : the module with the class, which is used to make functions private
+moduleWithPrivateFunc.py: here a private function prvt_func() is created, also another function
                             non_prvt_func() is there, which just calls prvt_func()
-# runme.py                : this is the current file; it contains prvt_func_caller() and non_prvt_func_caller(),
+runme.py                : this is the current file; it contains prvt_func_caller() and non_prvt_func_caller(),
                             which calls prvt_func() and non_prvt_func() respectively
 ..............................
 
