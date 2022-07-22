@@ -7,9 +7,9 @@ is the proof of whether the code works or not.</br>
 
 
 Description of the files......</br>
-private.py              : the module with the class, which is used to make functions private</br>
+private.py&emsp&emsp&ensp              : the module with the class, which is used to make functions private</br>
 moduleWithPrivateFunc.py: here a private function prvt_func() is created, also another function</br>
-                            non_prvt_func() is there, which just calls prvt_func()</br>
+                            <t>non_prvt_func() is there, which just calls prvt_func()</br>
 runme.py                : this is the current file; it contains prvt_func_caller() and non_prvt_func_caller(),</br>
                             which calls prvt_func() and non_prvt_func() respectively</br>
 ..............................</br>
