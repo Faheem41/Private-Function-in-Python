@@ -1,3 +1,5 @@
+# this file is imported from src/private.py
+
 
 class PrivateFunc:
     __slots__ = ["_filename", "__error_name", "__error_message"]
