@@ -6,7 +6,7 @@
 <p>
   <ul>
     <li>version: <strong>1.2.21</strong></li>
-    <li>first published in: <strong><a href="www.sololearn.com" target="_blank" rel="noreferrer>Sololearn</a></strong></li>
+    <li>first published in: <strong><a href="www.sololearn.com" target="_blank" rel="noreferrer">Sololearn</a></strong></li>
     <li>Github first publishing date: <strong>23rd July, 2022</strong></li>
   </ul>
 </p>
