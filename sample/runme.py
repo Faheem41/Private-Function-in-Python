@@ -1,3 +1,6 @@
+# this is the main file of the sample code
+# run this file
+
 
 from moduleWithPrivateFunc import prvt_func, non_prvt_func
 
