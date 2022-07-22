@@ -6,16 +6,16 @@ is the proof of whether the code works or not.</br>
 ..............................</br>
 
 
-Description of the files......
-private.py              : the module with the class, which is used to make functions private
-moduleWithPrivateFunc.py: here a private function prvt_func() is created, also another function
-                            non_prvt_func() is there, which just calls prvt_func()
-runme.py                : this is the current file; it contains prvt_func_caller() and non_prvt_func_caller(),
-                            which calls prvt_func() and non_prvt_func() respectively
-..............................
+Description of the files......</br>
+private.py              : the module with the class, which is used to make functions private</br>
+moduleWithPrivateFunc.py: here a private function prvt_func() is created, also another function</br>
+                            non_prvt_func() is there, which just calls prvt_func()</br>
+runme.py                : this is the current file; it contains prvt_func_caller() and non_prvt_func_caller(),</br>
+                            which calls prvt_func() and non_prvt_func() respectively</br>
+..............................</br>
 
 
-Description of the functions..
+Description of the functions..</br>
 >> prvt_func() | imported     | this is a private function as described in moduleWithPrivateFunc.py,
                                 so it would raise error if called
 >> non_prvt_func() | imported | it is a native function to prvt_func() and calls prvt_func(), which is
