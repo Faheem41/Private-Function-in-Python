@@ -20,3 +20,6 @@ Have a look at the <a href="https://github.com/Faheem41/Private-Function-in-Pyth
 <h2>Sample Code</h2>
 Go through <a href="https://github.com/Faheem41/Private-Function-in-Python/tree/main/sample" rel="noreferrer">the demo code</a> to completely understand the insights of the source.
 </p>
+
+
+<p align="center"></p>
