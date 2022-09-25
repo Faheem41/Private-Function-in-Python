@@ -1,3 +1,10 @@
+<dl align="right">
+  <dt><a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main" rel="noreferrer"><h6>Home</h6></a></dt>
+  <dt><a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer"><h6>Source</h6></a></dt>
+</dl>
+
+#
+----------------
 <h3>Sample Code Example:..........</h3></br>
 Here a demo code will be shown where we will see the practical implementation of the private.py</br>
 file. We will learn how to create a private function, and implement it. This code piece actually</br>
@@ -27,3 +34,7 @@ is the proof of whether the code works or not.</br>
 
 
 <h5>"""  Run the runme.py file to get the details understanding of the project  """</h5>
+
+#
+----------------
+<h6 align="center">© 2021-2022 Md. Faheem Hossain fmhossain2941@gmail.com</h6>
