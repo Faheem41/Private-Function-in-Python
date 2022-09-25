@@ -3,6 +3,9 @@
   
 <h2 align="center">from <a href="https://faheem41.github.io" target="_blank" rel="noreferrer">FAHEEM41</a></h2>
 
+### 
+------------------
+
 <p>
   <ul>
     <li>version: <strong>1.2.21</strong></li>
@@ -16,13 +19,23 @@
 <h2>Why use the code?</h2>
 Let's start with the concept of private functions. Private functions are functions that are only accessible inside the declared module, no other function from any other module can access it.</br>
 This project mainly focuses on the security issues of a code. This enables a way to restrict code from accessing other functions from other modules that were not meant to be accessed. And thus, it ensures that only non-private functions i.e. public functions can be accessed from anywhere outside the code.</br></br>
-Here's an example, suppose a module has two functions: add() and main(). main() function is meant to run and can be called from other modules. On the other hand, the add() function is a function that is only called by the main() function, and we want to keep this function private, i.e. ensure that it cannot be accessed or called from any other module.
+Here's an example, suppose a module has two functions: <i>add()</i> and <i>main()</i>. <i>main()</i> function is meant to run and can be called from other modules. On the other hand, the <i>add()</i> function is a function that is only called by the <i>main()</i> function, and we want to keep this function private, i.e. ensure that it cannot be accessed or called from any other module.
 </p>
 </br>
 
 <p>
 <h2>Understanding the code</h2>
-Have a look at the <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer">private.py</a> file; the documentation of the code, along with how the code is working is given inside the source code.
+Here we have implemented a very naive idea to get our work done. We have used a <i>decorator</i> which will check whether the function is a private or public function and thereby deny or grant access respectively. The <i>decorator</i> will run, as usual, with the function called, and before the function ran.</br>
+For details understanding, have a look at the <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer">private.py</a> file; the documentation of the code, along with how the code is working is given inside the source code.
+</p>
+</br>
+
+<p>
+<h2>How to use the code?</h2>
+<b>1.</b> Copy and paste <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer">private.py</a> in your repository</br>
+<b>2.</b> Import <b>private.py</b> in your module</br><code>from private import PrivateFunc</code></br>
+<b>3.</b> Then create, <code>privatefunc = PrivateFunc("nameOfThisModuleHere")</code></br>
+<b>4.</b> Now add <code>@privatefunc.private</code> before the function you want to make private
 </p>
 </br>
 
