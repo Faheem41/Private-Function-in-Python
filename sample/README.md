@@ -1,7 +1,9 @@
-<dl align="right">
-  <dt><a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main" rel="noreferrer"><h6>Home</h6></a></dt>
-  <dt><a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer"><h6>Source</h6></a></dt>
-</dl>
+<h6>
+  <dl align="right">
+    <dt><a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main" rel="noreferrer">Home</a></dt>
+    <dt><a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer">Source</a></dt>
+  </dl>
+</h6>
 
 #
 ----------------
