@@ -1,7 +1,7 @@
-<h1 align="center">Private Function in Python</h1>
-<p align="center"><i>"A smarter way to create private functions in python"</i><p>
+<h1 align="center">&nbsp</br>Private Function in Python</br>&nbsp</h1>
+<p align="center">&nbsp</br><i>"A smarter way to create private functions in python"</i><p>
   
-<h2 align="center">from <a href="https://faheem41.github.io" target="_blank" rel="noreferrer">FAHEEM41</a></h2>
+<h2 align="center">from <a href="https://faheem41.github.io" target="_blank" rel="noreferrer">FAHEEM41</br>&nbsp</a></h2>
 
 ### 
 ------------------
