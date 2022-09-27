@@ -26,13 +26,13 @@ Here's an example, suppose a module has two functions: <i>add()</i> and <i>main(
 <p>
 <h2>Understanding the code</h2>
 Here we have implemented a very naive idea to get our work done. We have used a <i>decorator</i> which will check whether the function is a private or public function and thereby deny or grant access respectively. The <i>decorator</i> will run, as usual, with the function called, and before the function ran.</br>
-For details understanding, have a look at the <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer">private.py</a> file; the documentation of the code, along with how the code is working is given inside the source code.
+For details understanding, have a look at the <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/private.py" rel="noreferrer">private.py</a> file; the documentation of the code, along with how the code is working is given inside the source code.
 </p>
 </br>
 
 <p>
 <h2>How to use the code?</h2>
-<b>1.</b> Copy and paste <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer">private.py</a> in your repository</br>
+<b>1.</b> Copy and paste <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/private.py" rel="noreferrer">private.py</a> in your repository</br>
 <b>2.</b> Import <b>private.py</b> in your module</br><code>from private import PrivateFunc</code></br>
 <b>3.</b> Then create, <code>privatefunc = PrivateFunc("nameOfThisModuleHere")</code></br>
 <b>4.</b> Now add <code>@privatefunc.private</code> before the function you want to make private</br></br>
