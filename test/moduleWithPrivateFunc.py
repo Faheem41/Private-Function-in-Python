@@ -3,7 +3,7 @@
 # the runme.py is the file which one should run
 
 
-from private import PrivateFunc
+from privatefunc import PrivateFunc
 privatefunc = PrivateFunc("moduleWithPrivateFunc")
 
 
