@@ -8,7 +8,7 @@
 
 <p>
   <ul>
-    <li>version: <strong>23.1.3</strong></li>
+    <li>version: <strong>22.1.3</strong></li>
     <li>first published in: <strong><a href="https://www.sololearn.com" target="_blank" rel="noreferrer">Sololearn</a></strong></li>
     <li>Github first publishing date: <strong>23rd July, 2022</strong></li>
   </ul>
