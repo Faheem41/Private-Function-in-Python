@@ -92,5 +92,5 @@ class PrivateFunc:
                             + " because it is a private function")
                     else:
                         raise self.__error_name(self.__error_message)
-            func(*args, **kwargs)
+            return func(*args, **kwargs)
         return wrap
