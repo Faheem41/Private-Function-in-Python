@@ -48,7 +48,7 @@ pip install privatefunc
 Add this lines in your module:
 ```
 from privatefunc import PrivateFunc
-privatefunc = PrivateFunc("nameOfThisModuleHere")
+privatefunc = PrivateFunc("nameOfThisModuleWithoutExtension")
 ```
 
 Now add `@privatefunc.private` before the function you want to make private</br></br>
