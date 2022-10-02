@@ -8,7 +8,7 @@
 
 <p>
   <ul>
-    <li>version: <strong>22.1.3</strong></li>
+    <li>version: <strong>1.3.22</strong></li>
     <li>first published in: <strong><a href="https://www.sololearn.com" target="_blank" rel="noreferrer">Sololearn</a></strong></li>
     <li>Github first publishing date: <strong>23rd July, 2022</strong></li>
   </ul>
@@ -40,17 +40,20 @@ For better understanding have a look at <a href="https://github.com/Faheem41/Pri
 </p>
 </br>
 
-<p>
-<h2>How to use the code? (using pip)</h2>
-In terminal type the command: <code>pip install privatefunc</code></br>
-Add this lines in your module: 
-```from privatefunc import PrivateFunc
+## How to use the code? (using pip)
+In terminal type the command:
+```
+pip install privatefunc
+```
+Add this lines in your module:
+```
+from privatefunc import PrivateFunc
 privatefunc = PrivateFunc("nameOfThisModuleHere")
 ```
-</code></br>
-Now add <code>@privatefunc.private</code> before the function you want to make private</br></br>
+
+Now add `@privatefunc.private` before the function you want to make private</br></br>
 For better understanding have a look at <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/test/moduleWithPrivateFunc.py" rel="noreferrer">moduleWithPrivateFunc.py</a>
-</p>
+
 </br>
 
 <p>
@@ -62,4 +65,3 @@ Go through <a href="https://github.com/Faheem41/Private-Function-in-Python/tree/
 #
 -------------------
 <h6 align="center">© 2021-2022 Md. Faheem Hossain fmhossain2941@gmail.com</h6>
-
