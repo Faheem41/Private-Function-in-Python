@@ -1,7 +1,7 @@
 <h6>
   <dl align="right">
     <dt><a href="https://github.com/Faheem41/Private-Function-in-Python" rel="noreferrer">Home</a></dt>
-    <dt><a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/main.py" rel="noreferrer">Source</a></dt>
+    <dt><a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/privatefunc.py" rel="noreferrer">Source</a></dt>
   </dl>
 </h6>
 
