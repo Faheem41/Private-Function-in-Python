@@ -53,6 +53,16 @@ privatefunc = PrivateFunc("nameOfThisModuleWithoutExtension")
 ```
 
 Now add `@privatefunc.private` before the function you want to make private</br></br>
+Everything put together:
+```
+# example.py
+from privatefunc import PrivateFunc
+privatefunc = PrivateFunc("example")
+
+@privatefunc.private
+def privatedef():
+  pass
+```
 For better understanding have a look at <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/test/moduleWithPrivateFunc.py" rel="noreferrer">moduleWithPrivateFunc.py</a>
 
 </br>
