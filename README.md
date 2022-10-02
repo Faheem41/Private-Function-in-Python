@@ -51,7 +51,7 @@ For better understanding have a look at <a href="https://github.com/Faheem41/Pri
 
 <p>
 <h2>Sample Code</h2>
-Go through <a href="https://github.com/Faheem41/Private-Function-in-Python/tree/main/sample" rel="noreferrer">the demo code</a> to completely understand the insights of the source.
+Go through <a href="https://github.com/Faheem41/Private-Function-in-Python/tree/main/test" rel="noreferrer">the demo code</a> to completely understand the insights of the source.
 </p>
 </br>
 
