@@ -12,15 +12,22 @@
 All changes to this project will be documented in this file.
 </br></br></br>
 
+## [1.4.22] - 03-10-22
+### Changed
+- major bug fixed
+</br>
+
 ## [1.3.22] - 02-10-22
 ### Changed
 - Version system: [MajorUpdate].[MinorUpdate].[Year]
 - privatefunc.PrivateFunc.__doc__
+</br>[*bug found*]
 </br>
 
 ## [1.2.21] - ???
 ### Added
 - privatefunc.PrivateFunc.__slots__
+</br>[*bug found*]
 </br>
 
 #
