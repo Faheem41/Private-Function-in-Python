@@ -3,15 +3,17 @@
   
 <h2 align="center">from <a href="https://faheem41.github.io" target="_blank" rel="noreferrer">FAHEEM41</br></a></h2>
 
+![example workflow](https://img.shields.io/badge/pip-Download-purple)
+
 ### 
 ------------------
 
 <p>
   <ul>
-    <li>version: <strong>1.3.22</strong></li>
+    <li>version: <strong>1.4.22</strong></li>
     <li>first published in: <strong><a href="https://www.sololearn.com" target="_blank" rel="noreferrer">Sololearn</a></strong></li>
     <li>Github first publishing date: <strong>23rd July, 2022</strong></li>
-    <li>Last Updated: <strong>2nd October, 2022</strong>
+    <li>Last Updated: <strong>3rd October, 2022</strong>
   </ul>
 </p>
 </br>
