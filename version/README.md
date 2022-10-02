@@ -10,7 +10,7 @@
 
 # Changelog
 All changes to this project will be documented in this file.
-</br>
+</br></br></br>
 
 ## [1.3.22] - 02-10-22
 ### Changed
