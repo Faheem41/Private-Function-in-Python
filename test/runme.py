@@ -34,7 +34,7 @@ if __name__ == '__main__':
         "since it isn't a native function to it, it should raise an error\n>> non_prvt_func_caller()     | calls "
         "non_prvt_func(), which is a non native function to it, but not private, so non_prvt_func_caller() should work")
     print("_" * 34)
-    print("\n\n\nfunctions of file0.py running.....\n")
+    print("\n\n\nfunctions of runme.py running.....\n")
 
     try:
         print("| The private function from moduleWithPrivateFunc.py says    : ", end="")
