@@ -2,8 +2,7 @@
 <p align="center"><i>"A smarter way to create private functions in python"</i><p>
   
 <h2 align="center">from <a href="https://faheem41.github.io" target="_blank" rel="noreferrer">FAHEEM41</br></a></h2>
-
-![example workflow](https://img.shields.io/badge/pip-Download-purple)
+<a href="https://github.com/Faheem41/Private-Function-in-Python" rel="noreferrer"><img src="https://img.shields.io/badge/pip-Download-purple" /></a>
 
 ### 
 ------------------
