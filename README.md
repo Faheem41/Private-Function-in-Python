@@ -11,6 +11,7 @@
     <li>version: <strong>1.3.22</strong></li>
     <li>first published in: <strong><a href="https://www.sololearn.com" target="_blank" rel="noreferrer">Sololearn</a></strong></li>
     <li>Github first publishing date: <strong>23rd July, 2022</strong></li>
+    <li>Last Updated: <strong>2nd October, 2022</strong>
   </ul>
 </p>
 </br>
