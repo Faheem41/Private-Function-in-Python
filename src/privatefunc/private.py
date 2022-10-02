@@ -37,7 +37,7 @@ class PrivateFunc:
     """
 
     __slots__ = ["_filename", "__error_name", "__error_message"]
-    __version__ = '1.2.21'
+    __version__ = '22.1.3'
     
     _filename: str
     __error_name: type
