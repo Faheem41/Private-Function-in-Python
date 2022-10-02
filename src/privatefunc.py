@@ -33,7 +33,8 @@ class PrivateFunc:
     """
      >> description: this is a class which one can use to create private functions
      >> public functions: private
-     >> an example code is given in the main directory
+     >> an example code is given in https://github.com/Faheem41/Private-Function-in-Python/tree/main/test
+     >> source code: https://github.com/Faheem41/Private-Function-in-Python
     """
 
     __slots__ = ["_filename", "__error_name", "__error_message"]
