@@ -2,7 +2,7 @@
 <p align="center"><i>"পাইথনে প্রাইভেট ফাংশন তৈরি করার একটি স্মার্ট উপায়"</i><p>
   
 <h2 align="center">from <a href="https://faheem41.github.io" target="_blank" rel="noreferrer">FAHEEM41</br></a></h2>
-<a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/lang/README-bn.md#how-to-use-the-code-using-pip" rel="noreferrer"><img src="https://img.shields.io/badge/pip-ডাউনলোড-purple" /></a>&nbsp&nbsp
+<a href="https://github.com/Faheem41/Private-Function-in-Python/edit/main/lang/README-bn.md#কিভাবে-কোড-ব্যবহার-করবেন?-pip-ব্যবহার-করে)" rel="noreferrer"><img src="https://img.shields.io/badge/pip-ডাউনলোড-purple" /></a>&nbsp&nbsp
 <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/README.md" rel="noreferrer"><img src="https://img.shields.io/badge/lang-English-black" /></a>
 
 ### 
