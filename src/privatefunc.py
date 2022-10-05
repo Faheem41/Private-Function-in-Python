@@ -1,9 +1,6 @@
 """
 
   Copyright (C) 2021-2022 Md. Faheem Hossain fmhossain2941@gmail.com
-  
-  Anyone directly or indirectly related with any form of corruption is not
-  counted as a person by the notice.
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
