@@ -1,4 +1,4 @@
-<h1 align="center">&nbsp</br>পাইথনট'এ প্রাইভেট ফাংশন</br>Private Function in Python</br>&nbsp</h1>
+<h1 align="center">&nbsp</br>পাইথন'এ প্রাইভেট ফাংশন</br>Private Function in Python</br>&nbsp</h1>
 <p align="center"><i>"পাইথনে প্রাইভেট ফাংশন তৈরি করার একটি স্মার্ট উপায়"</i><p>
   
 <h2 align="center">from <a href="https://faheem41.github.io" target="_blank" rel="noreferrer">FAHEEM41</br></a></h2>
