@@ -4,13 +4,14 @@
 
 
 from privatefunc import PrivateFunc
-privatefunc = PrivateFunc("moduleWithPrivateFunc")
+
+private = PrivateFunc("moduleWithPrivateFunc").private
 
 
-@privatefunc.private
+@private
 def prvt_func():
     print("working...")
-  
+
 
 def non_prvt_func():
     prvt_func()
