@@ -2,7 +2,7 @@
 <p align="center"><i>"A smarter way to create private functions in python"</i><p>
   
 <h2 align="center">from <a href="https://faheem41.github.io" target="_blank" rel="noreferrer">FAHEEM41</br></a></h2>
-<a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/README.md#how-to-use-the-code-using-pip" rel="noreferrer"><img src="https://img.shields.io/badge/pip-Download-purple" /></a>&nbsp&nbsp
+<h6>Click:</h6> <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/README.md#how-to-use-the-code-using-pip" rel="noreferrer"><img src="https://img.shields.io/badge/pip-Download-purple" /></a>&nbsp&nbsp
 <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/lang/README-bn.md" rel="noreferrer"><img src="https://img.shields.io/badge/lang-Bangla-deepgreen" /></a>
 
 ### 
@@ -10,10 +10,10 @@
 
 <p>
   <ul>
-    <li>version: <strong>1.4.22</strong></li>
+    <li>version: <strong>1.5.23</strong></li>
     <li>first published in: <strong><a href="https://www.sololearn.com" target="_blank" rel="noreferrer">Sololearn</a></strong></li>
     <li>Github first publishing date: <strong>23rd July, 2022</strong></li>
-    <li>Last Updated: <strong>3rd October, 2022</strong>
+    <li>Last Updated: <strong>11th January, 2023</strong>
   </ul>
 </p>
 </br>
@@ -37,8 +37,8 @@ For details understanding, have a look at the <a href="https://github.com/Faheem
 <h2>How to use the code?</h2>
 <b>1.</b> Copy and paste <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/src/privatefunc.py" rel="noreferrer">privatefunc.py</a> in your repository</br>
 <b>2.</b> Import <b>privatefunc.py</b> in your module</br><code>from privatefunc import PrivateFunc</code></br>
-<b>3.</b> Then create, <code>privatefunc = PrivateFunc("nameOfThisModuleHere")</code></br>
-<b>4.</b> Now add <code>@privatefunc.private</code> before the function you want to make private</br></br>
+<b>3.</b> Then create, <code>private = PrivateFunc("nameOfThisModuleHere").private</code></br>
+<b>4.</b> Now add <code>@private</code> before the function you want to make private</br></br>
 For better understanding have a look at <a href="https://github.com/Faheem41/Private-Function-in-Python/blob/main/test/moduleWithPrivateFunc.py" rel="noreferrer">moduleWithPrivateFunc.py</a>
 </p>
 </br>
@@ -51,17 +51,17 @@ pip install privatefunc
 Add this lines in your module:
 ```
 from privatefunc import PrivateFunc
-privatefunc = PrivateFunc("nameOfThisModuleWithoutExtension")
+private = PrivateFunc("nameOfThisModuleWithoutExtension").private
 ```
 
-Now add `@privatefunc.private` before the function you want to make private</br></br>
+Now add `@private` before the function you want to make private</br></br>
 Everything put together:
 ```
 # example.py
 from privatefunc import PrivateFunc
-privatefunc = PrivateFunc("example")
+private = PrivateFunc("example").private
 
-@privatefunc.private
+@private
 def privatedef():
   pass
 ```
@@ -77,4 +77,4 @@ Go through <a href="https://github.com/Faheem41/Private-Function-in-Python/tree/
 
 #
 -------------------
-<h6 align="center">© 2021-2022 Md. Faheem Hossain fmhossain2941@gmail.com</h6>
+<h6 align="center">© 2021-2023 Md. Faheem Hossain fmhossain2941@gmail.com</h6>
