@@ -12,6 +12,11 @@
 All changes to this project will be documented in this file.
 </br></br></br>
 
+## [1.5.22] - 11-01-23
+### Changed
+- major bug fixed
+</br>
+
 ## [1.4.22] - 03-10-22
 ### Changed
 - major bug fixed
